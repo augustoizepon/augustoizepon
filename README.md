@@ -1,16 +1,58 @@
-### Hi there 👋
+### Olá! 👋 Eu sou Augusto Menabo Izepon
 
-<!--
-**augustoizepon/augustoizepon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😃 É um prazer tê-lo aqui! Antes de tudo, deixe-me me apresentar...
 
-Here are some ideas to get you started:
+### 🐺 Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Augusto Menabo Izepon, e sou apaixonado por tecnologia desde sempre. No início de 2022, decidi trilhar meu próprio caminho no mundo da programação. Atualmente, estou construindo projetos para aprimorar minhas habilidades e estudando Ciência da Computação na Faculdade Descomplica. Estou constantemente em busca de conhecimento, prática e atualização.
+
+### ⚡ Tecnologias que domino:
+
+- HTML
+- CSS3
+- JavaScript
+- Java
+- React.js
+- Node.js
+- Angular
+- Java
+- TypeScript
+
+### 📚 Estou estudando:
+
+- Banco de Dados
+- Java
+- Angular
+
+<div align="left">
+  <a href="https://github.com/augustoizepon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoizepon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoizepon&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+### ⚔️ Minhas Soft Skills:
+
+- Aprendizado constante
+- Boa habilidade de trabalho em equipe
+- Experiência em receber e dar feedbacks
+- Boa organização e gerenciamento
+- Metodologias Ágeis, principalmente Scrum
+- Espírito de liderança
+
+### 📊 Metas para 2023:
+
+- 📂 Expandir meu portfólio
+- 🤝 Melhorar minhas soft skills
+
+### 📫 Entre em contato:
+
+<div>
+  <a href="https://www.linkedin.com/in/augusto-menabó-izepon-8a3070264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send/?phone=55081981202507&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "malito:augustom.izepon@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
+
+<br>
+<p>🧠 <i>"Curta o processo!"</i></p>
+
