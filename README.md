@@ -11,16 +11,13 @@ Meu nome é Augusto Menabo Izepon, e sou apaixonado por tecnologia desde sempre.
 - HTML
 - CSS3
 - JavaScript
-- Java
 - React.js
 - Node.js
-- Angular
-- Java
 - TypeScript
+- MySQL
 
 ### 📚 Estou estudando:
 
-- Banco de Dados
 - Java
 - Angular
 
