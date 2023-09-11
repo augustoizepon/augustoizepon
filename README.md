@@ -44,12 +44,18 @@ Meu nome é Augusto Menabo Izepon, e sou apaixonado por tecnologia desde sempre.
 - 📂 Expandir meu portfólio
 - 🤝 Melhorar minhas soft skills
 
+### Projetos em destaque:
+- [Pokedex](https://augustoizepon.github.io/Pokedex/)
+- [Bloco de Notas que salva no Browser](https://augustoizepon.github.io/projeto-bloco-de-notas/)
+- [Calculadora feita em Editor de Codigo Mobile](https://augustoizepon.github.io/calculadora-mobile/)
+
 ### 📫 Entre em contato:
 
 <div>
   <a href="https://www.linkedin.com/in/augusto-menabó-izepon-8a3070264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=55081981202507&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "malito:augustom.izepon@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.youtube.com/channel/UC5zHn9b0Ch9BIMgCItrCJDw"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 </div>
 
