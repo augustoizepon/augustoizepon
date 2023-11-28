@@ -8,13 +8,12 @@ Meu nome é Augusto Menabo Izepon, e sou apaixonado por tecnologia desde sempre.
 
 ### ⚡ Tecnologias que domino:
 
-- HTML
-- CSS3
+- PHP
 - JavaScript
 - React.js
 - Node.js
 - TypeScript
-- MySQL
+- SQL
 
 ### 📚 Estou estudando:
 
@@ -35,6 +34,7 @@ Meu nome é Augusto Menabo Izepon, e sou apaixonado por tecnologia desde sempre.
 - Boa organização e gerenciamento
 - Metodologias Ágeis, principalmente Scrum
 - Espírito de liderança
+- Boas Práticas de Código
 
 ### 📊 Metas para 2023:
 
