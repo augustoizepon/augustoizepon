@@ -1,61 +1,58 @@
-### Olá! 👋 Eu sou Augusto Menabo Izepon
+# 👋 Hello, I'm Augusto Menabó Izepon
 
-😃 É um prazer tê-lo aqui! Antes de tudo, deixe-me me apresentar...
+I'm an **AI Engineer** at Webera and Co-creator of **OpenVela**, an open-source AI library designed to simplify and accelerate AI development. My passion for technology drives me to explore innovative solutions across backend, frontend, and artificial intelligence development.
 
-### 🐺 Sobre mim:
+## 🚀 About Me
 
-Meu nome é Augusto Menabo Izepon, e sou apaixonado por tecnologia desde sempre. No início de 2022, decidi trilhar meu próprio caminho no mundo da programação. Atualmente, estou construindo projetos para aprimorar minhas habilidades e estudando Ciência da Computação na Faculdade Descomplica. Estou constantemente em busca de conhecimento, prática e atualização.
+- 🔭 Currently working as an **AI Researcher & Software Developer** at Webera
+- 🌱 Passionate about using technology to **solve global challenges**
+- 🎯 Focused on building innovative, sustainable solutions that can impact lives
 
-### ⚡ Tecnologias que domino:
+## 💼 OpenVela
 
-- PHP
-- JavaScript
-- React.js
-- Node.js
-- TypeScript
-- SQL
+[OpenVela](https://pypi.org/project/openvela/) is an AI library that empowers developers to build, deploy, and optimize AI solutions with ease. It provides robust tools for model development and deployment, making AI more accessible and efficient.
 
-### 📚 Estou estudando:
+- 📦 Available on PyPI: [pypi.org/project/openvela](https://pypi.org/project/openvela/)
+- 🚀 Built to streamline AI workflows and enhance productivity
 
-- Java
-- Angular
+## 💼 Professional Experience
 
-<div align="left">
-  <a href="https://github.com/augustoizepon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoizepon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoizepon&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### Webera
 
-### ⚔️ Minhas Soft Skills:
+- **AI Researcher & Software Developer** (Apr 2024 - Present)
 
-- Aprendizado constante
-- Boa habilidade de trabalho em equipe
-- Experiência em receber e dar feedbacks
-- Boa organização e gerenciamento
-- Metodologias Ágeis, principalmente Scrum
-- Espírito de liderança
-- Boas Práticas de Código
+  - Developing cutting-edge AI solutions
+  - Contributing to software architecture and AI-driven development
 
-### 📊 Metas para 2023:
+- **Frontend Developer** (Nov 2023 - Apr 2024)
 
-- 📂 Expandir meu portfólio
-- 🤝 Melhorar minhas soft skills
+  - Building scalable and user-friendly web applications
+  - Collaborating with cross-functional teams
 
-### Projetos em destaque:
-- [Pokedex](https://augustoizepon.github.io/Pokedex/)
-- [Bloco de Notas que salva no Browser](https://augustoizepon.github.io/projeto-bloco-de-notas/)
-- [Calculadora feita em Editor de Codigo Mobile](https://augustoizepon.github.io/calculadora-mobile/)
+## 🛠️ Skills
 
-### 📫 Entre em contato:
+- **Programming Languages & Technologies:**
+  - JavaScript, React, HTML, CSS
+  - Python, AI/ML frameworks
+- **Key Competencies:**
+  - LangChain, Artificial Intelligence, Software Development
 
-<div>
-  <a href="https://www.linkedin.com/in/augusto-menabó-izepon-8a3070264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send/?phone=55081981202507&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "malito:augustom.izepon@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.youtube.com/channel/UC5zHn9b0Ch9BIMgCItrCJDw"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+## 🏆 Certifications
 
-</div>
+- Logic Programming
+- Mastering React
+- Complete Web Development
+- JavaScript Fundamentals
+- Functional Programming
+- HTML Course
 
-<br>
-<p>🧠 <i>"Curta o processo!"</i></p>
+## 📫 Get in Touch
+
+- 📧 Email: [augustom.izepon@outlook.com](mailto\:augustom.izepon@outlook.com)
+- 🔗 LinkedIn: [linkedin.com/in/augusto-menabó-izepon-8a3070264](https://www.linkedin.com/in/augusto-menab%C3%B3-izepon-8a3070264)
+- 📱 Mobile: +55 81 981202507
+
+---
+
+Let's connect and create impactful solutions together!
 
