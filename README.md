@@ -19,9 +19,9 @@ I am a **Platform AI Engineer** specializing in multi-agent systems, LLM orchest
 
 ## 💼 Key Projects
 
-* **OpenVela:** Lead developer of this open-source framework designed to simplify intelligent automation.
-* **Amigo Care:** Led AI strategy for a flagship healthcare product, deploying multi-agent workflows and voice-enabled solutions.
-* **LifePulse:** Built a CNN-based vision model in PyTorch for analyzing ECG images, integrated with GPT-2 for diagnostic generation.
+* **OpenVela:** Lead developer of this open-source framework designed to simplify intelligent automation. [link](https://github.com/wearewebera/openvela)
+* **Amigo Flow:** Led AI strategy for a flagship healthcare product, deploying multi-agent workflows and voice-enabled solutions. [link](https://www.amigotech.com.br/produtos/amigo-flow)
+* **LifePulse:** Built a CNN-based vision model in PyTorch for analyzing ECG images, integrated with GPT-2 for diagnostic generation. [link](https://lifepulse.ai/)
 * **Autonomous RAG:** Developed a platform with web scraping capabilities using Selenium and Chainlit for AI-powered chatbots.
 
 ## 🎓 Education
